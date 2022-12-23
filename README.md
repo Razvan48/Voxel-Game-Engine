@@ -10,8 +10,6 @@
   <img width="505" height="425" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo1.gif">
 </p>
 
-<br/>
-
 **Controls:** <br/>
 
 &emsp; WASD for moving around <br/>
