@@ -5,8 +5,8 @@
 &emsp; All textures for the blocks are made from scratch. <br/>
 &emsp; I do not own the Perlin Noise library which was used in the program. <br/>
 
-<p align = "left">
-  <img width="400" height="400" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
+<p>
+  <img align = "left" width="400" height="400" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
 </p>
 
 **Controls:** <br/>
