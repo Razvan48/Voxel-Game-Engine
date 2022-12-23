@@ -7,6 +7,7 @@
 
 <p>
   <img align = "left" width="400" height="400" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
+  <img align = "right" width="400" height="400" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
 </p>
 
 **Controls:** <br/>
