@@ -14,6 +14,8 @@
 
 &emsp; WASD for moving around <br/>
 &emsp; Mouse for moving camera around <br/>
+&emsp; Button Q for going up <br/>
+&emsp; Button E for going down <br/>
 &emsp; Button X for breaking a block <br/>
 &emsp; 1, 2, 3, ... (their IDs) for selecting a block <br/>
 &emsp; Button P for placing the selected block <br/>
