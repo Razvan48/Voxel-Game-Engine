@@ -9,6 +9,14 @@
   <img width="400" height="400" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
 </p>
 
+**Controls:** <br/>
+
+&emsp; WASD for moving around <br/>
+&emsp; Mouse for moving camera around <br/>
+&emsp; Button X for breaking a block <br/>
+&emsp; 1, 2, 3, ... for selecting a block <br/>
+&emsp; Button P for placing the selected block <br/>
+
 
 
 
