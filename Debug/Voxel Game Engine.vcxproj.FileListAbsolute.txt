@@ -1,0 +1,2 @@
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\Debug\Voxel Game Engine.exe
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\Debug\Voxel Game Engine.pdb

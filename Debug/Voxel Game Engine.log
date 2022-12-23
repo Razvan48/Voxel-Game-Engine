@@ -1,0 +1,119 @@
+﻿  main.cpp
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(17,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(616,101): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(621,73): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(626,102): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(631,73): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(768,144): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(772,116): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(777,145): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(781,116): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(784,106): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(785,106): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(799,144): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(803,116): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(808,145): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(812,116): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(815,106): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(816,106): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(866,148): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(870,120): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(875,149): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(879,120): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(882,110): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(883,110): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(942,125): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(942,109): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(996,125): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(996,109): warning C4244: 'argument': conversion from 'int' to 'FN_DECIMAL', possible loss of data
+C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\main.cpp(1380,43): warning C4244: 'argument': conversion from '__int64' to 'GLsizeiptr', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Voxel Game Engine.vcxproj -> C:\Users\razvan\Documents\GitHub\Voxel-Game-Engine\Debug\Voxel Game Engine.exe
