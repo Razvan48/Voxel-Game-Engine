@@ -1,4 +1,4 @@
-# Voxel-Game-Engine | _C++, OpenGL, Noise, Visual Studio_
+# Voxel-Game-Engine | _C++, OpenGL, Perlin Noise, Visual Studio_
 
 &emsp; This is a voxel game engine inspired by Minecraft, featuring an infinite and interactive world. <br/>
 &emsp; The terrain and vegetation are generated using Perlin Noise, and they are divided into chunks. <br/>
