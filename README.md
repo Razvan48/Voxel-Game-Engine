@@ -6,7 +6,7 @@
 &emsp; I do not own the Perlin Noise library which was used in the program. <br/>
 
 <p align = "center">
-  <img width="400" height="533" src="https://github.com/Razvan48/MineSweeper-written-in-Python/blob/main/Demo/MineSweeperDemo.gif">
+  <img width="400" height="533" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
 </p>
 
 
