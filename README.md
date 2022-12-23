@@ -6,8 +6,8 @@
 &emsp; I do not own the Perlin Noise library which was used in the program. <br/>
 
 <p>
-  <img align = "left" width="450" height="450" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
-  <img align = "right" width="450" height="450" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
+  <img align = "left" width="500" height="500" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
+  <img align = "right" width="500" height="500" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo.gif">
 </p>
 
 <br/>
