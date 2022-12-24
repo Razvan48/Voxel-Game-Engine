@@ -1,4 +1,4 @@
-# Voxel-Game-Engine | _C++, OpenGL, Perlin Noise_
+# Voxel-Game-Engine | _C++, OpenGL, Perlin Noise, procedurally-generated terrain_
 
 &emsp; This is a voxel game engine inspired by Minecraft, featuring an infinite and interactive world. <br/>
 &emsp; The terrain and vegetation are generated using a Perlin Noise library, and they are divided into chunks. <br/>
