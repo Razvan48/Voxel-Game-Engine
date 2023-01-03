@@ -1,8 +1,7 @@
-# Voxel-Game-Engine | _C++, OpenGL_
+# Voxel-Game-Engine
 
 &emsp; This is a voxel game engine inspired by Minecraft, featuring an infinite and interactive world. <br/>
 &emsp; The terrain and vegetation are generated using a Perlin Noise library, and they are divided into chunks. <br/>
-&emsp; All textures for the blocks are made from scratch. <br/>
 
 <p align = "center">
   <img width="505" height="425" src="https://github.com/Razvan48/Voxel-Game-Engine/blob/main/Demo/VoxelCraftDemo0.gif">
@@ -10,7 +9,6 @@
 </p>
 
 **Controls:** <br/>
-
 &emsp; WASD for moving around <br/>
 &emsp; Mouse for moving camera around <br/>
 &emsp; Button Q for going up <br/>
